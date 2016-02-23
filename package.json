@@ -1,0 +1,26 @@
+{
+  "name": "demo_app",
+  "version": "1.0.0",
+  "description": "apa lah",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geofterry/demo_app.git"
+  },
+  "author": "helsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geofterry/demo_app/issues"
+  },
+  "homepage": "https://github.com/geofterry/demo_app#readme"
+}
